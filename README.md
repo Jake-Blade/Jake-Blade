@@ -1,15 +1,14 @@
-# Título del Proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+<div align="center">
+<h1 align="center">Hola, soy Jonathan López 👋</h1>
+</div>
 
 
-### Pre-requisitos 📋
+![Blue Futuristic New Technology LinkedIn Banner](https://github.com/Jake-Blade/Jake-Blade/assets/154285711/a5e5186e-923d-474f-8d3f-ce411950cea5)
+
+
+
+
+### Sobre mi 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
