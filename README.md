@@ -10,12 +10,12 @@
 
 ### Sobre mi 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- ✏️ Java Developer
+- 📗 Kotlin developer
+- 🌟 React Developer
+  
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
