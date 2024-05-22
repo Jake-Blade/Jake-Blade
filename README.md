@@ -11,6 +11,8 @@
 
 📫 Contacto: jlopez5560@uta.edu.ec
 
+Mi perfil de GitPages -> https://jake-blade.github.io./
+
 
 <h2 >Sobre mi 📋</h2>
 <!--tech stack icons-->
